@@ -1,4 +1,4 @@
-# Project 2 - Ames Housing Data
+# Ames Housing Data
 
 ---
 ## Content
